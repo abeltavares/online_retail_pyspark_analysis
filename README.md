@@ -1,3 +1,5 @@
+[![PySpark](https://img.shields.io/badge/PySpark-3.3.2-orange.svg)](https://spark.apache.org/docs/latest/api/python/index.html)
+
 # Online Retail Data Analysis
 
 This repository contains an analysis of the Online Retail dataset, which includes transactional data from a UK-based online retailer. The analysis is performed using PySpark in Jupyter Notebooks.
