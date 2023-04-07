@@ -10,12 +10,12 @@ The dataset used in this analysis can be found in the `data` folder. The dataset
 
 The analysis is divided into several Jupyter Notebooks, each focusing on a specific aspect of the data:
 
-- `01_Exploratory_Data_Analysis.ipynb`: Exploratory data analysis to understand the structure and distribution of the data.
-- `02_RFM_Analysis.ipynb`: RFM analysis to segment customers based on their purchasing behavior.
-- `03_KMeans_Clustering.ipynb`: K-means clustering to segment customers based on their order history.
-- `04_Product_Affinity_Analysis.ipynb`: Product affinity analysis to identify which products tend to be purchased together.
-- `05_Market_Basket_Analysis.ipynb`: Market basket analysis to analyze which products tend to be purchased together at different times of day, week, or year.
-- `06_Churn_Analysis.ipynb`: Churn analysis to identify customers who are likely to churn based on their past behavior.
+- `Exploratory_Data_Analysis.ipynb`: Exploratory data analysis to understand the structure and distribution of the data.
+- `RFM_Analysis.ipynb`: RFM analysis to segment customers based on their purchasing behavior.
+- `KMeans_Clustering.ipynb`: K-means clustering to segment customers based on their order history.
+- `Product_Affinity_Analysis.ipynb`: Product affinity analysis to identify which products tend to be purchased together.
+- `Market_Basket_Analysis.ipynb`: Market basket analysis to analyze which products tend to be purchased together at different times of day, week, or year.
+- `Churn_Analysis.ipynb`: Churn analysis to identify customers who are likely to churn based on their past behavior.
 
 ## Requirements
 
