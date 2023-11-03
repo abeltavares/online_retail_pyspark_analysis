@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/work%20in%20progress-e28a2b)
 [![PySpark](https://img.shields.io/badge/PySpark-3.3.2-orange.svg)](https://spark.apache.org/docs/latest/api/python/index.html)
 
 # Online Retail Data Analysis
